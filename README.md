@@ -57,17 +57,17 @@ The design was developed and verified using the ModelSim simulation environment.
 ## Project Structure
 
 src/
-├── ALU.v
 
-├── ALU_control_unit.v
-├── control_unit.v
-├── data_memory.v
-├── extension.v
-├── inst_memory.v
-├── InstructionParser.v
-├── PC.v
-├── reg_file.v
-└── core.v
+  ├── ALU.v
+  ├── ALU_control_unit.v
+  ├── control_unit.v
+  ├── data_memory.v
+  ├── extension.v
+  ├── inst_memory.v
+  ├── InstructionParser.v
+  ├── PC.v
+  ├── reg_file.v
+  └── core.v
 
 testbench/
 └── testbench.v
