@@ -1,4 +1,5 @@
 Source Files
+
 This directory contains the complete Verilog HDL implementation of the Single-Cycle MIPS Processor.
 The design follows a modular architecture and includes separate modules for the datapath components, control logic, instruction memory, data memory, register file, and ALU.
 
