@@ -58,6 +58,7 @@ The design was developed and verified using the ModelSim simulation environment.
 
 src/
 ├── ALU.v
+
 ├── ALU_control_unit.v
 ├── control_unit.v
 ├── data_memory.v
@@ -66,7 +67,7 @@ src/
 ├── InstructionParser.v
 ├── PC.v
 ├── reg_file.v
-└── mips.v
+└── core.v
 
 testbench/
 └── testbench.v
