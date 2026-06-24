@@ -6,13 +6,14 @@ Top-Level Module:
 core.v
 
 Main Components:
-ALU
-ALU Control Unit
-Control Unit
-Register File
-Program Counter
-Instruction Memory
-Data Memory
-Sign Extension Unit
+ALU,
+ALU Control Unit,
+Control Unit,
+Register File,
+Program Counter,
+Instruction Memory,
+Instruction Parser,
+Data Memory,
+Sign Extension Unit.
 
 All modules were individually designed and implemented from scratch based on the MIPS architecture described in Patterson & Hennessy's Computer Organization and Design.
