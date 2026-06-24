@@ -89,6 +89,7 @@ docs/
 └── simulation_waveforms.pdf
 
 report/
+
 └── project_report.pdf
 ---
 
