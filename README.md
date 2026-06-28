@@ -88,8 +88,7 @@ MIPS-Single-Cycle-Processor
 │   ├── InstructionParser.v
 │   ├── PC.v
 │   ├── reg_file.v
-│   └── core
-.v
+│   └── core.v
 │
 ├── testbench
 │   └── testbench.v
@@ -173,5 +172,5 @@ Embedded Systems Engineer
 ## Connect with Me
 
 - GitHub: https://github.com/saeed-khabbaz
-- LinkedIn: (https://www.linkedin.com/in/saeed-khabbaz-06a9b2417)
-- YouTube: (https://youtube.com/ChireDastElectronicAcademy)
+- LinkedIn: https://www.linkedin.com/in/saeed-khabbaz-06a9b2417
+- YouTube: https://youtube.com/ChireDastElectronicAcademy
